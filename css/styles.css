@@ -351,7 +351,7 @@ ol {
 }
 
 .projects {
-  margin-top: 20px;
+  margin-top: 16px;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
