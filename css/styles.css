@@ -368,6 +368,7 @@ ol {
 }
 
 .projects {
+  margin-top: 16px;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
@@ -377,7 +378,6 @@ ol {
 
 .project {
   background: var(--white-color);
-
   box-sizing: border-box;
   margin-top: 30px;
   margin-right: 30px;
