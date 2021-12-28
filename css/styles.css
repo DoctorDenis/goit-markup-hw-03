@@ -163,8 +163,6 @@ ol {
 .hero > .container {
   padding-top: 200px;
   padding-bottom: 200px;
-  padding-left: 250px;
-  padding-right: 250px;
 }
 
 .hero-head {
@@ -175,7 +173,8 @@ ol {
   letter-spacing: 0.06em;
   text-transform: uppercase;
   color: var(--white-color);
-  margin-bottom: 30px;
+  width: 696px;
+  margin: 0 auto;
 }
 
 .hero-btn {
@@ -188,6 +187,7 @@ ol {
   line-height: calc(30 / 16);
   text-align: center;
   letter-spacing: 0.06em;
+  margin-top: 30px;
   margin-left: auto;
   margin-right: auto;
   color: var(--white-color);
@@ -442,7 +442,7 @@ ol {
 }
 
 .footer-contacts > li:not(:last-child) {
-  margin-bottom: 3px;
+  margin-bottom: 9px;
 }
 
 .footer-contacts-address,
